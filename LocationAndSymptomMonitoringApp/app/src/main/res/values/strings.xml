@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LocationAndSymptomMonitoringApp</string>
+    <string name="notification_activity">NotificationView</string>
+    <string-array name="symptoms_array">
+        <item>Fever</item>
+        <item>Cough</item>
+        <item>Tiredness</item>
+        <item>Shortness of Breath</item>
+        <item>Muscle Aches</item>
+        <item>Sore Throat</item>
+        <item>Headache</item>
+        <item>Diarrhea</item>
+        <item>Nausea</item>
+        <item>Loss of Smell or Taste</item>
+    </string-array>
+    <string name="upload_symptoms_button">SYMPTOMS</string>
+    <string name="update_button">UPLOAD SYMPTOMS</string>
+    <string name="symptom_page_heading">Symptom Logging Page</string>
+    <string name="record_button">RECORD VIDEO</string>
+    <string name="upload_signs">UPLOAD SIGNS</string>
+    <string name="measure_pulse">MEASURE HEART RATE</string>
+    <string name="measure_breathing">MEASURE RESPIRATORY RATE</string>
+
+</resources>
